@@ -1,0 +1,30 @@
+@import 'bootstrap';
+@import url('https://fonts.googleapis.com/css2?family=Creepster&display=swap');
+
+:root {
+  font: 16px / 1 sans-serif;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  min-height: 100%;
+  background-color: #ffdbdb;
+}
+
+.list-group-item {
+  background-color: #fff0f0;
+}
+
+h1 {
+  font-family: 'Creepster', cursive;
+  text-align: center;
+  font-size: 5rem;
+}
+
+img {
+  padding-right: 1rem;
+}
