@@ -1,4 +1,4 @@
-# Party Like Its 1989 Colter
+# Party Like Its 1989: A React.JS App
 It's 1989 and the Internet has just come online and Tim Berners-Lee is going to invent the World Wide Web. The Cold War is ending, and the Berlin Wall will be coming down. It's also going to be a great year for film. In this assignment, you're going to build a small webpage that showcases some of the most popular movies of 1989.
 
 The data for this assignment comes from [The Movie DB](https://www.themoviedb.org) API.
